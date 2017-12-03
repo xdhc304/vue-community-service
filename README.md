@@ -1,8 +1,8 @@
 
 
-# vue-order-system
+# vue-community-service-system
 
-> 基于vue的移动端订单系统 UI基于mint-ui
+> 基于vue的移动端社区服务系统
 
 ## Build Setup
 
